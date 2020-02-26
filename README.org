@@ -1,0 +1,9 @@
+* dendrite
+
+  As in [[https://en.wikipedia.org/wiki/Dionysus][Dionysus]]
+
+  This was inspired by the opencyc bot @aindalis and have set up in #logicmoo on freenode. There is an interesting synergy of the zulip group chat UX that I think could play well with a knowledge-base-repl type gizmo.
+
+  This was tested against a repl. It needs a *CYC_SERVER*, an *CYC_PORT*, a *ZULIP_USERNAME*, *ZULIP_APIKEY*, and *ZULIP_BASEURL* environemt envs set for the run time. You can define these things in the [[file:Makefile][Makefile]]
+
+Huzzah!

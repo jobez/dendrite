@@ -1,0 +1,5 @@
+{:deps {clojure-zulip
+        {:git/url
+         "https://github.com/jobez/clojure-zulip"
+         :sha
+         "f921c99dace69c87351d029a426c2893db677f78" }}}
